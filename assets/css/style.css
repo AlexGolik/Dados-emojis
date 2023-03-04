@@ -73,7 +73,7 @@
 }
 
 .img-front{
-    background-image:url(confusion.svg);
+    background-image:url(../img/confusion.svg);
     object-fit: cover;
     width:100%;
     height:100%;
@@ -81,35 +81,35 @@
 }
 
 .img-back{
-    background-image:url(enojo.svg);
+    background-image:url(../img/enojo.svg);
     object-fit: cover;
     width:100%;
     height:100%;
 }
 
 .img-right{
-    background-image:url(alegria.svg);
+    background-image:url(../img/alegria.svg);
     object-fit: cover;
     width:100%;
     height:100%;
 }
 
 .img-left{
-    background-image:url(miedo.svg);
+    background-image:url(../img/miedo.svg);
     object-fit: cover;
     width:100%;
     height:100%;
 }
 
 .img-top{
-    background-image:url(tristeza.svg);
+    background-image:url(../img/tristeza.svg);
     object-fit: cover;
     width:100%;
     height:100%;    
 }
 
 .img-bottom{
-    background-image:url(verguenza.svg);
+    background-image:url(../img/verguenza.svg);
     object-fit: cover;
     width:100%;
     height:100%;
